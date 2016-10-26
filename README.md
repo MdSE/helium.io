@@ -1,6 +1,6 @@
 **helium** is a real-time data backend for web applications using Websockets.
 
-Please visit the documentation page http://christophgrotz.github.io/helium.io for further information.
+Please visit the documentation page http://cgrotz.github.io/helium.io for further information.
 
 =======
 Integration via travis-ci https://travis-ci.org/christophgrotz/helium.io
